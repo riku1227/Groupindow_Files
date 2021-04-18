@@ -1,0 +1,2 @@
+# Groupindow_Files
+Groupindowのリリースファイルを置くところ
